@@ -18,7 +18,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-### Eclipse template
+### Eclipse template ###
 
 .metadata
 bin/
@@ -58,7 +58,7 @@ local.properties
 
 # Code Recommenders
 .recommenders/
-### Node template
+### Node template ###
 # Logs
 logs
 *.log
@@ -96,7 +96,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-### SublimeText template
+### SublimeText template ###
 # cache files for sublime text
 *.tmlanguage.cache
 *.tmPreferences.cache
@@ -124,7 +124,8 @@ bh_unicode_properties.cache
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
-### Gradle template
+
+### Gradle template ###
 .gradle
 build/
 
@@ -139,7 +140,8 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
-### Maven template
+
+### Maven template ###
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -150,7 +152,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
-### JetBrains template
+### JetBrains template ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
@@ -193,7 +195,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-### Vim template
+### Vim template ###
 # swap
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -205,7 +207,7 @@ Session.vim
 # auto-generated tag files
 tags
 
-### Java template
+### Java template ###
 *.class
 
 # Mobile Tools for Java (J2ME)
