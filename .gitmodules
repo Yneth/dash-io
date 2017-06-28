@@ -1,3 +1,6 @@
 [submodule "food-service"]
 	path = food-service
 	url = https://github.com/Yneth/food-service
+[submodule "food-ui-service"]
+	path = food-ui-service
+	url = https://github.com/Yneth/food-ui-service
