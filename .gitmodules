@@ -13,3 +13,6 @@
 [submodule "dash-config-service"]
 	path = dash-config-service
 	url = https://github.com/Yneth/dash-config-service
+[submodule "dash-discovery-service"]
+	path = dash-discovery-service
+	url = https://github.com/Yneth/dash-discovery-service
