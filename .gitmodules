@@ -10,3 +10,6 @@
 [submodule "dash-api-gateway"]
 	path = dash-api-gateway
 	url = https://github.com/Yneth/dash-api-gateway
+[submodule "dash-config-service"]
+	path = dash-config-service
+	url = https://github.com/Yneth/dash-config-service
