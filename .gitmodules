@@ -16,3 +16,6 @@
 [submodule "dash-discovery-service"]
 	path = dash-discovery-service
 	url = https://github.com/Yneth/dash-discovery-service
+[submodule "dash-sleuth-service"]
+	path = dash-sleuth-service
+	url = https://github.com/Yneth/dash-sleuth-service
