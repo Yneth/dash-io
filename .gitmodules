@@ -4,3 +4,6 @@
 [submodule "food-ui-service"]
 	path = food-ui-service
 	url = https://github.com/Yneth/food-ui-service
+[submodule "dash-hystrix-dashboard"]
+	path = dash-hystrix-dashboard
+	url = https://github.com/Yneth/dash-hystrix-dashboard
