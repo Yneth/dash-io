@@ -7,3 +7,6 @@
 [submodule "dash-hystrix-dashboard"]
 	path = dash-hystrix-dashboard
 	url = https://github.com/Yneth/dash-hystrix-dashboard
+[submodule "dash-api-gateway"]
+	path = dash-api-gateway
+	url = https://github.com/Yneth/dash-api-gateway
